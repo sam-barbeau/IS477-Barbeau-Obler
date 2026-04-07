@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# API key file (keep private)
+fredapi.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
