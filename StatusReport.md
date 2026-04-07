@@ -173,7 +173,15 @@ I spent roughly 6 hours on coding and testing, plus another hour or two reviewin
 
 ### Everett's Contributions
 
+I handled most of the data quality and visualization work:
 
+- Wrote the `profile_data.py` script to check both datasets for missing values, outliers, and data type issues
+- Built most of the `analyze_data.py` script, including all four visualizations and the statistical tests
+- Discovered the period-by-period correlation pattern that explains why the overall correlation seemed weaker than expected
+- Documented the analysis findings in `output/analysis_summary.txt`
+- Started drafting sections of this status report
+
+I spent about 7 hours on the analysis and visualizations, plus another 2 hours on documentation.
 
 ---
 
