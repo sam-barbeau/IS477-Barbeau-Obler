@@ -1,0 +1,15 @@
+Statistical Analysis Summary
+==================================================
+
+Overall Pearson correlation: r = -0.4096, p = 0.000353
+Spearman correlation: rho = -0.4259, p = 0.000192
+Best lag: -2 months (r = -0.4227)
+
+Period Summary:
+           fedfunds         permit        
+               mean   std     mean     std
+period                                    
+2024           5.14  0.31  1473.92   49.45
+Pandemic       0.23  0.43  1606.83  197.77
+Pre-COVID      2.16  0.34  1386.17   99.66
+Rate Hikes     3.35  2.00  1600.04  153.75
